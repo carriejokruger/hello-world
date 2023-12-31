@@ -1,4 +1,4 @@
 # hello-world
 First practice project - Carrie Jo Kruger
-# H1
+# Coding is fun 
 **Practicing with GitHub**
