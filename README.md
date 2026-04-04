@@ -4,4 +4,5 @@ First practice project - Carrie Jo Kruger
 **Practicing with GitHub**
 - Using Markdown
 - Practice, practice
+# Have a good day
 
